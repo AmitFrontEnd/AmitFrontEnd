@@ -41,13 +41,14 @@ I'm a passionate **2nd-year BCA student** at **PGGC Sector 11, Chandigarh**, ded
 
 <div align="center">
 
-[![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmitFrontEnd&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)](https://github.com/AmitFrontEnd)
+![Amit's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmitFrontEnd&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmitFrontEnd&theme=tokyonight&hide_border=false&layout=compact)](https://github.com/AmitFrontEnd)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmitFrontEnd&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmitFrontEnd&theme=tokyonight&hide_border=false)](https://github.com/AmitFrontEnd)
+![GitHub Streak](https://streak-stats.demolab.com?user=AmitFrontEnd&theme=tokyonight&hide_border=true)
 
 </div>
+
 
 ---
 
