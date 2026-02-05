@@ -39,7 +39,7 @@ I'm a passionate **2nd-year BCA student** at **PGGC Sector 11, Chandigarh**, ded
 
 ## 📊 GitHub Stats & Activity
 
-<div align="center">
+<div align="left">
 
 ![GitHub Stats](https://profile-stats-xleb.vercel.app/api/badge.svg?username=AmitFrontEnd)
 
