@@ -41,11 +41,7 @@ I'm a passionate **2nd-year BCA student** at **PGGC Sector 11, Chandigarh**, ded
 
 <div align="center">
 
-![Amit's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AmitFrontEnd&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AmitFrontEnd&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AmitFrontEnd&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://profile-stats-xleb.vercel.app/api/badge.svg?username=AmitFrontEnd)
 
 </div>
 
